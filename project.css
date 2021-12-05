@@ -1,6 +1,6 @@
 .firstimage{
 	margin-left:40px;
-	margin-top:20px;
+	margin-top:15px;
 	float:left;
 }
 .img1{
@@ -40,15 +40,23 @@ a:hover {
   border: none;
   border-bottom: 2px solid #CCC;
   margin-right:40px;
-	margin-top:40px;
+	margin-top:50px;
 	float:right;
   
 }
 .search{
 	margin-right:0px;
-	margin-top:38px;
+	margin-top:48px;
 	float:right;
 }
+#div1{
+	background-color:yellow;
+	margin-top:50px;
+	width:100%;
+}
+
+
+
 	
 
 
