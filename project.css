@@ -1,0 +1,45 @@
+.firstimage{
+	margin-left:40px;
+	margin-top:20px;
+	float:left;
+}
+.img1{
+	margin-right:40px;
+	margin-top:30px;
+	float:right;
+}
+.img2{
+	margin-right:40px;
+	margin-top:33px;
+	float:right;
+}
+a{
+	margin-right:40px;
+	margin-top:33px;
+	float:right;
+	color:black;
+	font-size:30px;
+	text-decoration:none;
+	
+}
+a:link {
+  color: black;
+}
+
+/* visited link */
+a:visited {
+  color: black;
+}
+
+/* mouse over link */
+a:hover {
+  color: blue;
+}
+
+/* selected link */
+a:active {
+  color: voilet;
+}
+	
+
+	
