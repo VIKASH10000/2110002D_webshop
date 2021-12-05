@@ -35,11 +35,33 @@ a:visited {
 a:hover {
   color: blue;
 }
-
-/* selected link */
-a:active {
-  color: voilet;
+.input {
+  background-color: transparent;
+  border: none;
+  border-bottom: 2px solid #CCC;
+  margin-right:40px;
+	margin-top:40px;
+	float:right;
+  
 }
+.search{
+	margin-right:0px;
+	margin-top:38px;
+	float:right;
+}
+	
+
+
+
+
+
+
+
+
+	
+
+
+
 	
 
 	
