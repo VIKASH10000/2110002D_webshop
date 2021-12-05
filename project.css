@@ -120,6 +120,23 @@ font-size:27px;
 margin-left:-5px;
 font-size:20px;
 }
+#pack{
+	position:absolute;
+	margin-top:850px;
+margin-left:1100px;
+}
+#pack1{
+	position:absolute;
+	margin-top:20px;
+margin-left:20px;
+font-size:27px;
+}
+#pack2{
+	position:absolute;
+	margin-top:90px;
+margin-left:5px;
+font-size:20px;
+}
 
 	
 
